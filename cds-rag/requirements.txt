@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pymupdf
+
+langchain
+langchain-community
+langchain-qdrant
+langchain-huggingface
+
+qdrant-client
+sentence-transformers
+
+langchain-openai
+openai
+
+pydantic
