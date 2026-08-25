@@ -1,0 +1,157 @@
+[
+  {
+    "id": 1,
+    "category": "direct_fact",
+    "question": "Who led the revolt from Kanpur?",
+    "expected": "Nana Sahib"
+  },
+  {
+    "id": 2,
+    "category": "direct_fact",
+    "question": "Who led the revolt at Barrackpore?",
+    "expected": "Mangal Pandey"
+  },
+  {
+    "id": 3,
+    "category": "direct_fact",
+    "question": "Who was the Mughal emperor during the Revolt of 1857?",
+    "expected": "Bahadur Shah II"
+  },
+  {
+    "id": 4,
+    "category": "direct_fact",
+    "question": "When was Awadh annexed?",
+    "expected": "1856"
+  },
+  {
+    "id": 5,
+    "category": "direct_fact",
+    "question": "Which British officer recaptured Jhansi?",
+    "expected": "Hugh Rose"
+  },
+
+  {
+    "id": 6,
+    "category": "definition",
+    "question": "What was the Doctrine of Lapse?",
+    "expected": "A policy under which a princely state could be annexed by the British if its ruler died without a natural heir."
+  },
+  {
+    "id": 7,
+    "category": "definition",
+    "question": "What was the Permanent Settlement?",
+    "expected": "A land revenue settlement associated with Bengal and Bihar in which revenue was fixed."
+  },
+  {
+    "id": 8,
+    "category": "definition",
+    "question": "What was the Ryotwari Settlement?",
+    "expected": "A land revenue system applied in parts of the Madras and Bombay Presidencies."
+  },
+  {
+    "id": 9,
+    "category": "definition",
+    "question": "What was the Mahalwari Settlement?",
+    "expected": "A land revenue system associated with the Gangetic valley, North-West Provinces and Punjab."
+  },
+  {
+    "id": 10,
+    "category": "definition",
+    "question": "What was the immediate cause of the Revolt of 1857?",
+    "expected": "The introduction of Enfield rifle cartridges greased with animal fat, specifically cow and pig fat."
+  },
+
+  {
+    "id": 11,
+    "category": "causes_effects",
+    "question": "What were the political causes of the Revolt of 1857?",
+    "expected": "Political grievances included the refusal of Nana Sahib's pension, annexation of Awadh, and annexation of Jhansi under the Doctrine of Lapse."
+  },
+  {
+    "id": 12,
+    "category": "causes_effects",
+    "question": "What were the economic causes of the Revolt of 1857?",
+    "expected": "Heavy taxation, discriminatory tariff policies, and destruction of traditional handicrafts."
+  },
+  {
+    "id": 13,
+    "category": "causes_effects",
+    "question": "What were the military causes of the Revolt of 1857?",
+    "expected": "Indian soldiers faced low salaries, limited promotion opportunities, and racial discrimination."
+  },
+  {
+    "id": 14,
+    "category": "causes_effects",
+    "question": "Why did the Enfield cartridges cause resentment among Indian soldiers?",
+    "expected": "They were reportedly greased with cow and pig fat, offending Hindu and Muslim religious beliefs."
+  },
+  {
+    "id": 15,
+    "category": "causes_effects",
+    "question": "Why was Awadh annexed by the British?",
+    "expected": "It was annexed in 1856 on the charge of maladministration."
+  },
+
+  {
+    "id": 16,
+    "category": "people_dates",
+    "question": "When was Delhi recaptured during the Revolt of 1857?",
+    "expected": "20 September 1857"
+  },
+  {
+    "id": 17,
+    "category": "people_dates",
+    "question": "When was Jhansi recaptured?",
+    "expected": "17 June 1858"
+  },
+  {
+    "id": 18,
+    "category": "people_dates",
+    "question": "Who recaptured Delhi during the Revolt of 1857?",
+    "expected": "John Nicholson"
+  },
+
+  {
+    "id": 19,
+    "category": "cds_style",
+    "question": "Which of the following was a political cause of the Revolt of 1857: heavy taxation, refusal of Nana Sahib's pension, destruction of handicrafts, or discriminatory tariffs?",
+    "expected": "Refusal of Nana Sahib's pension"
+  },
+  {
+    "id": 20,
+    "category": "cds_style",
+    "question": "Which place was associated with Mangal Pandey during the Revolt of 1857?",
+    "expected": "Barrackpore"
+  },
+  {
+    "id": 21,
+    "category": "cds_style",
+    "question": "Which state was annexed under the Doctrine of Lapse and became associated with Rani Lakshmi Bai?",
+    "expected": "Jhansi"
+  },
+
+  {
+    "id": 22,
+    "category": "out_of_knowledge",
+    "question": "What was the exact birth date of Mangal Pandey?",
+    "expected": "Not sufficiently available in the CDS knowledge base."
+  },
+  {
+    "id": 23,
+    "category": "out_of_knowledge",
+    "question": "Who was the first President of independent India?",
+    "expected": "Not sufficiently available in the tested Revolt of 1857 material."
+  },
+  {
+    "id": 24,
+    "category": "out_of_knowledge",
+    "question": "What was the exact population of India in 1857?",
+    "expected": "Not sufficiently available in the CDS knowledge base."
+  },
+  {
+    "id": 25,
+    "category": "out_of_knowledge",
+    "question": "What was Mangal Pandey's exact height?",
+    "expected": "Not sufficiently available in the CDS knowledge base."
+  }
+]

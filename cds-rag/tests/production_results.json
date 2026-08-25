@@ -1,0 +1,732 @@
+[
+  {
+    "id": 1,
+    "category": "direct_fact",
+    "question": "Who led the revolt from Kanpur?",
+    "expected": "Nana Sahib",
+    "answer": "Nana Sahib.",
+    "sources": [
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 65
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 56
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      }
+    ],
+    "status": "COMPLETED"
+  },
+  {
+    "id": 2,
+    "category": "direct_fact",
+    "question": "Who led the revolt at Barrackpore?",
+    "expected": "Mangal Pandey",
+    "answer": "Mangal Pandey.",
+    "sources": [
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 65
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 29
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 53
+      }
+    ],
+    "status": "COMPLETED"
+  },
+  {
+    "id": 3,
+    "category": "direct_fact",
+    "question": "Who was the Mughal emperor during the Revolt of 1857?",
+    "expected": "Bahadur Shah II",
+    "answer": "Bahadur Shah II.",
+    "sources": [
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 36
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 36
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 37
+      }
+    ],
+    "status": "COMPLETED"
+  },
+  {
+    "id": 4,
+    "category": "direct_fact",
+    "question": "When was Awadh annexed?",
+    "expected": "1856",
+    "answer": "1856.",
+    "sources": [
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 83
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 38
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 29
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 75
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 28
+      }
+    ],
+    "status": "COMPLETED"
+  },
+  {
+    "id": 5,
+    "category": "direct_fact",
+    "question": "Which British officer recaptured Jhansi?",
+    "expected": "Hugh Rose",
+    "answer": "Hugh Rose.",
+    "sources": [
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 28
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 37
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 56
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 37
+      }
+    ],
+    "status": "COMPLETED"
+  },
+  {
+    "id": 6,
+    "category": "definition",
+    "question": "What was the Doctrine of Lapse?",
+    "expected": "A policy under which a princely state could be annexed by the British if its ruler died without a natural heir.",
+    "answer": "The Doctrine of Lapse was planned by Lord Dalhousie to deal with questions of succession to princely states or Territory of India. According to the doctrine, if the ruler of any princely states under the paramountcy of the company died without a natural heir, the state would automatically be annexed to the British Empire.",
+    "sources": [
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 52
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 77
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 77
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 69
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 69
+      }
+    ],
+    "status": "COMPLETED"
+  },
+  {
+    "id": 7,
+    "category": "definition",
+    "question": "What was the Permanent Settlement?",
+    "expected": "A land revenue settlement associated with Bengal and Bihar in which revenue was fixed.",
+    "answer": "The Permanent Settlement was introduced in parts of the Madras and Bombay Presidencies. It declared zamindars as the owners of the land, and they could keep 1/11th of the revenue collected to themselves while the British got a fixed share of 10/11th of the revenue collected.",
+    "sources": [
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 75
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 78
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 54
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 76
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 68
+      }
+    ],
+    "status": "COMPLETED"
+  },
+  {
+    "id": 8,
+    "category": "definition",
+    "question": "What was the Ryotwari Settlement?",
+    "expected": "A land revenue system applied in parts of the Madras and Bombay Presidencies.",
+    "answer": "The Ryotwari Settlement was introduced in Bombay, Madras, and Assam. In this system, the direct settlement was made between the Government and the Ryots. The revenue was based on the basis of the quality of the soil and the nature of the crop. The revenue was fixed for a period not exceeding 30 years. It was based on the Scientific Rent Theory of Ricardo. The position of the cultivator became more secure.",
+    "sources": [
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 54
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 76
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 54
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 29
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 75
+      }
+    ],
+    "status": "COMPLETED"
+  },
+  {
+    "id": 9,
+    "category": "definition",
+    "question": "What was the Mahalwari Settlement?",
+    "expected": "A land revenue system associated with the Gangetic valley, North-West Provinces and Punjab.",
+    "answer": "The Mahalwari System.\n\nIt was introduced in the area of Ganga valley NWFP, parts of Central India and Punjab. Revenue settlement was to be made by village or estates with landlords.",
+    "sources": [
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 54
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 30
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 99
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 44
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 29
+      }
+    ],
+    "status": "COMPLETED"
+  },
+  {
+    "id": 10,
+    "category": "definition",
+    "question": "What was the immediate cause of the Revolt of 1857?",
+    "expected": "The introduction of Enfield rifle cartridges greased with animal fat, specifically cow and pig fat.",
+    "answer": "The immediate cause was the introduction of Enfield cartridges greased with pork or beef.",
+    "sources": [
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 68
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      }
+    ],
+    "status": "COMPLETED"
+  },
+  {
+    "id": 11,
+    "category": "causes_effects",
+    "question": "What were the political causes of the Revolt of 1857?",
+    "expected": "Political grievances included the refusal of Nana Sahib's pension, annexation of Awadh, and annexation of Jhansi under the Doctrine of Lapse.",
+    "answer": null,
+    "sources": [],
+    "status": "ERROR",
+    "error": "Exception('[502] Bad Gateway\\nUpstream request failed.')"
+  },
+  {
+    "id": 12,
+    "category": "causes_effects",
+    "question": "What were the economic causes of the Revolt of 1857?",
+    "expected": "Heavy taxation, discriminatory tariff policies, and destruction of traditional handicrafts.",
+    "answer": "The economic causes included heavy taxation and discriminatory tariffs.",
+    "sources": [
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 68
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 77
+      }
+    ],
+    "status": "COMPLETED"
+  },
+  {
+    "id": 13,
+    "category": "causes_effects",
+    "question": "What were the military causes of the Revolt of 1857?",
+    "expected": "Indian soldiers faced low salaries, limited promotion opportunities, and racial discrimination.",
+    "answer": "The military causes included:\n\n- Indian soldiers were paid low salaries.\n- They could not rise above the rank of Subedar.\n- They were racially insulted.\n- Soldiers were asked to use the Enfield Rifles with greased (by pork or beef) cartridges.",
+    "sources": [
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 68
+      }
+    ],
+    "status": "COMPLETED"
+  },
+  {
+    "id": 14,
+    "category": "causes_effects",
+    "question": "Why did the Enfield cartridges cause resentment among Indian soldiers?",
+    "expected": "They were reportedly greased with cow and pig fat, offending Hindu and Muslim religious beliefs.",
+    "answer": "The available CDS material does not contain enough information to answer this question.",
+    "sources": [
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 77
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 48
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 78
+      }
+    ],
+    "status": "COMPLETED"
+  },
+  {
+    "id": 15,
+    "category": "causes_effects",
+    "question": "Why was Awadh annexed by the British?",
+    "expected": "It was annexed in 1856 on the charge of maladministration.",
+    "answer": "The available CDS material does not contain enough information to answer this question.",
+    "sources": [
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 75
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 52
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 72
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 38
+      }
+    ],
+    "status": "COMPLETED"
+  },
+  {
+    "id": 16,
+    "category": "people_dates",
+    "question": "When was Delhi recaptured during the Revolt of 1857?",
+    "expected": "20 September 1857",
+    "answer": "20th September, 1857.",
+    "sources": [
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 70
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      }
+    ],
+    "status": "COMPLETED"
+  },
+  {
+    "id": 17,
+    "category": "people_dates",
+    "question": "When was Jhansi recaptured?",
+    "expected": "17 June 1858",
+    "answer": "17th June, 1858.",
+    "sources": [
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 28
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 37
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 28
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 29
+      }
+    ],
+    "status": "COMPLETED"
+  },
+  {
+    "id": 18,
+    "category": "people_dates",
+    "question": "Who recaptured Delhi during the Revolt of 1857?",
+    "expected": "John Nicholson",
+    "answer": "John Nicholson.",
+    "sources": [
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 70
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      }
+    ],
+    "status": "COMPLETED"
+  },
+  {
+    "id": 19,
+    "category": "cds_style",
+    "question": "Which of the following was a political cause of the Revolt of 1857: heavy taxation, refusal of Nana Sahib's pension, destruction of handicrafts, or discriminatory tariffs?",
+    "expected": "Refusal of Nana Sahib's pension",
+    "answer": "Refusal of Nana Sahib's pension.",
+    "sources": [
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 77
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 70
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 70
+      }
+    ],
+    "status": "COMPLETED"
+  },
+  {
+    "id": 20,
+    "category": "cds_style",
+    "question": "Which place was associated with Mangal Pandey during the Revolt of 1857?",
+    "expected": "Barrackpore",
+    "answer": "Barrackpore.",
+    "sources": [
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 65
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      }
+    ],
+    "status": "COMPLETED"
+  },
+  {
+    "id": 21,
+    "category": "cds_style",
+    "question": "Which state was annexed under the Doctrine of Lapse and became associated with Rani Lakshmi Bai?",
+    "expected": "Jhansi",
+    "answer": "Jhansi.",
+    "sources": [
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 52
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 52
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 77
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 29
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 77
+      }
+    ],
+    "status": "COMPLETED"
+  },
+  {
+    "id": 22,
+    "category": "out_of_knowledge",
+    "question": "What was the exact birth date of Mangal Pandey?",
+    "expected": "Not sufficiently available in the CDS knowledge base.",
+    "answer": "The available CDS material does not contain enough information to answer this question.",
+    "sources": [
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 66
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 66
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 8
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 13
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 53
+      }
+    ],
+    "status": "COMPLETED"
+  },
+  {
+    "id": 23,
+    "category": "out_of_knowledge",
+    "question": "Who was the first President of independent India?",
+    "expected": "Not sufficiently available in the tested Revolt of 1857 material.",
+    "answer": "Dr. Rajendra Prasad.",
+    "sources": [
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 67
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 66
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 64
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 54
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 66
+      }
+    ],
+    "status": "COMPLETED"
+  },
+  {
+    "id": 24,
+    "category": "out_of_knowledge",
+    "question": "What was the exact population of India in 1857?",
+    "expected": "Not sufficiently available in the CDS knowledge base.",
+    "answer": "The available CDS material does not contain enough information to answer this question.",
+    "sources": [
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 55
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 68
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 65
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 77
+      }
+    ],
+    "status": "COMPLETED"
+  },
+  {
+    "id": 25,
+    "category": "out_of_knowledge",
+    "question": "What was Mangal Pandey's exact height?",
+    "expected": "Not sufficiently available in the CDS knowledge base.",
+    "answer": "The available CDS material does not contain enough information to answer this question.",
+    "sources": [
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 66
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 8
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 37
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 2
+      },
+      {
+        "source": "data/raw/cds_history.pdf",
+        "page": 41
+      }
+    ],
+    "status": "COMPLETED"
+  }
+]

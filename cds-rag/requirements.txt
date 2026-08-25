@@ -7,11 +7,10 @@ langchain
 langchain-community
 langchain-qdrant
 langchain-huggingface
+langchain-text-splitters
+langchain-nvidia-ai-endpoints
 
 qdrant-client
 sentence-transformers
-
-langchain-openai
-openai
 
 pydantic

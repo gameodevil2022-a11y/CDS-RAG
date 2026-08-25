@@ -1,7 +1,11 @@
+.env
 .venv/
 __pycache__/
 *.py[cod]
-.env
-data/raw/*
-data/processed/*
+
 .pytest_cache/
+.mypy_cache/
+
+data/processed/
+
+.DS_Store
